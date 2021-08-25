@@ -1,0 +1,5 @@
+variables: las variables son valores que se asignan a determinados elementos y que pueden modificarse todo el tiempo, ademas de utilizarse para realizar operaciones o estar dentro de funciones
+strings: son cadenas de caracteres juntos
+Funciones (argumentos, return): las funciones son objetos que pueden ser invocados, se usan cuando se necesita realizar una acción u operacion de forma automatizada. las variables con las que opera se llaman argumentos y estos se declaran entre parentesis, return es el resultado, lo que devuelve la funcion.
+Declaraciones if: sirven para indicar que una acción u operacion debe ser realizada sólo si una variable cumple con ciertos requisitos
+valores booleanos (true, false): son valores que indican por sí o por no, verdadero o falso, sirven para confirmar declaraciones if.
